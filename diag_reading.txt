@@ -1,2 +1,2 @@
 diag_reading
-wait(500)
+wait(750)
