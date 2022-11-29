@@ -1,1 +1,2 @@
 diag_reading
+wait(500)
